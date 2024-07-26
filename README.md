@@ -2,11 +2,7 @@
 
 This repository contains notes I write while learning different kind of topics to improve my skills and knowledge in the world of AI. 
 
-## Topics
-
-1. [Computer and Programming](#programming)
-2. [Machine Learning](#machine-learning)
-3. [Large Language Model](#llm)
+***
 
 ### Computer and Programming
 
