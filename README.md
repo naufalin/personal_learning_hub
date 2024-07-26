@@ -1,6 +1,6 @@
 # Personal Learning Hub
 
-This repository contains notes I use to improve my skills and knowledge. 
+This repository contains notes I write while learning different kind of topics to improve my skills and knowledge in the world of AI. 
 
 ## Topics
 
