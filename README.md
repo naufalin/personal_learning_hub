@@ -4,20 +4,21 @@ This repository contains notes I write while learning different kind of topics t
 
 ## Topics
 
-1. [Programming](#programming)
+1. [Computer and Programming](#programming)
 2. [Machine Learning](#machine-learning)
 3. [Large Language Model](#llm)
 
-### Programming
+### Computer and Programming
 
-* [Python](path/to/python/materials)
+* [Python](python)
+* [CUDA](CUDA)
 
 ### Machine Learning
 
-* [Supervised Learning](path/to/supervised/materials)
-* [Unsupervised Learning](path/to/unsupervised/materials)
-* [Recommenders](path/to/recommenders/materials)
-* [Reinforcement Learning](path/to/rl/materials)
+* [Supervised Learning](machine_learning/supervised)
+* [Unsupervised Learning](pmachine_learning/unsupervised)
+* [Recommenders](machine_learning/recommenders)
+* [Reinforcement Learning](machine_learning/rl)
 
 ### Large Language Model
 
