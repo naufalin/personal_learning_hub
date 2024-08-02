@@ -34,8 +34,11 @@ This hidden layer inputs four numbers and these four numbers are inputs to each 
 
 .
 
->> check out: https://github.com/Param302/ML-specialization-notes/tree/master/Course%202%20-%20Advanced%20Learning%20Algorithms 
-
+> check out: 
+```
+1. https://github.com/pmulard/machine-learning-specialization-andrew-ng
+2. https://github.com/Param302/ML-specialization-notes/tree/master/Course%202%20-%20Advanced%20Learning%20Algorithms 
+```
 
 .
 
