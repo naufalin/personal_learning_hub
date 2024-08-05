@@ -28,8 +28,15 @@ This hidden layer inputs four numbers and these four numbers are inputs to each 
 
 .
 
-.
 
+![alt text](nn_notation.png)
+
+.
+```
+By convention, input layer is also called as the 0th layer. So, a neural network with 4 layers is a neural network with 3 hidden layers and 1 output layer.
+```
+
+The process of moving through activation layers from input to output is called **forward propagation**. Likewise, there is also backward propagation (moving from output to input), which is used for learning.
 .
 
 .
