@@ -7,7 +7,7 @@ This repository contains notes I write while learning different kind of topics t
 ### Computer and Programming
 
 * [Python](python)
-* [CUDA](CUDA)
+* [Installing Pytorch with gpu](Pytorch)
 
 ### Machine Learning
 

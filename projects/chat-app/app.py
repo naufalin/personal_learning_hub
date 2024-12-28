@@ -63,7 +63,7 @@ async def on_message(message: cl.Message):
         messages=[
             {
                 "role": "system",
-                "content": "You are a helpful and cheerful assistant"
+                "content": "You are a helpful and cheerful assistant."
             },
             {
                 "role": "user",
