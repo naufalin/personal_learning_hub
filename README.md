@@ -20,3 +20,7 @@ This repository contains notes I write while learning different kind of topics t
 
 * [RAG](path/to/RAG/materials)
 * [Agent](path/to/Agent/materials)
+
+### Mini Projects
+
+* [Chat app](mini-projects/chat-app)
