@@ -4,15 +4,16 @@ This repository contains notes I write while learning different kind of topics t
 
 ***
 
-### Computer and Programming
+### Programming
 
 * [Python](python)
 * [Installing Pytorch with gpu](Pytorch)
+* [Web development](freecodecamp)
 
 ### Machine Learning
 
 * [Supervised Learning](machine_learning/supervised)
-* [Unsupervised Learning](pmachine_learning/unsupervised)
+* [Unsupervised Learning](machine_learning/unsupervised)
 * [Recommenders](machine_learning/recommenders)
 * [Reinforcement Learning](machine_learning/rl)
 
